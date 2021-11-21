@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(194, 194, 221);
+}
+*{
+    margin: 0px;
+}
+#main{
+    background-color: burlywood;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height:700px;
+    border-radius: 3px solid red;
+}
+#nav1{
+    background-color: cadetblue;
+    
+    padding :50px 50px;
+    
+}
+#nav2{
+    background-color: rgb(221, 27, 27); 
+    padding :50px 50px;
+}
+#slideshow{
+    background-color: chartreuse;
+    padding :50px 50px;
+   
+}
+#product{
+    background-color:coral ;
+    padding :50px 50px;
+}
